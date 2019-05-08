@@ -1,0 +1,17 @@
+============================= test session starts ==============================
+platform linux -- Python 3.6.2, pytest-3.6.2, py-1.5.3, pluggy-0.6.0 -- /home/ec2-user/environment/virt/ranking_de_vendedores/bin/python
+cachedir: .pytest_cache
+rootdir: /home/ec2-user/codenation/ranking-sellers-python, inifile:
+collecting ... collected 8 items
+
+test_submit.py::SellersRanckingTests::test_best_seller PASSED            [ 12%]
+test_submit.py::SellersRanckingTests::test_best_seller_store PASSED      [ 25%]
+test_submit.py::SellersRanckingTests::test_best_seller_store_two PASSED  [ 37%]
+test_submit.py::SellersRanckingTests::test_best_seller_three PASSED      [ 50%]
+test_submit.py::SellersRanckingTests::test_best_seller_two PASSED        [ 62%]
+test_submit.py::SellersRanckingTests::test_rancking_list PASSED          [ 75%]
+test_submit.py::SellersRanckingTests::test_rancking_list_two PASSED      [ 87%]
+test_submit.py::SellersRanckingTests::test_sales_goals PASSED            [100%]
+
+ generated xml file: /home/ec2-user/codenation/ranking-sellers-python/output.xml 
+=========================== 8 passed in 0.04 seconds ===========================
