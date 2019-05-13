@@ -1,0 +1,15 @@
+============================= test session starts ==============================
+platform linux -- Python 3.6.2, pytest-3.6.2, py-1.5.3, pluggy-0.6.0 -- /home/ec2-user/environment/virt/validador_email/bin/python
+cachedir: .pytest_cache
+rootdir: /home/ec2-user/codenation/python-4, inifile:
+collecting ... collected 6 items
+
+test_submit.py::CalcAngleTests::test_angle_five PASSED                   [ 16%]
+test_submit.py::CalcAngleTests::test_angle_four PASSED                   [ 33%]
+test_submit.py::CalcAngleTests::test_angle_one PASSED                    [ 50%]
+test_submit.py::CalcAngleTests::test_angle_six PASSED                    [ 66%]
+test_submit.py::CalcAngleTests::test_angle_three PASSED                  [ 83%]
+test_submit.py::CalcAngleTests::test_angle_two PASSED                    [100%]
+
+------ generated xml file: /home/ec2-user/codenation/python-4/output.xml -------
+=========================== 6 passed in 0.03 seconds ===========================
